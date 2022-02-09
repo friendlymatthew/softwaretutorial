@@ -123,6 +123,11 @@ a:hover {
     text-align: center;
 }
 
+.flexflex {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
 /*  
     Style individual list items.
 */
